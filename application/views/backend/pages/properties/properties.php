@@ -8,7 +8,7 @@
             width: 100%;
         }
 
-    #data-table_wrapper {
+    #data-table1_wrapper {
         width: 100%;
     }
 
